@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Dong Yang"
 title_separator          : "-"
 name                     : &name "Dong Yang"
 description              : &description "Applied Research Scientist at NVIDIA"
@@ -83,30 +83,30 @@ author:
   name             : "Dong Yang"
   avatar           : "citations.jpeg"
   bio              : "Applied Research Scientist at NVIDIA"
-  location         :
-  employer         :
+  location         : "United States"
+  employer         : "NVIDIA"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PHvliUgAAAAJ"
-  email            : "don[dot]yang[dot]mech[at]gmail[dot]com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            :
+  researchgate     :
+  uri              : "https://research.nvidia.com/person/dong-yang"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "dongyang0122"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "dong-yang-thu"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
