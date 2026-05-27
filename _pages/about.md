@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Research Scientist at [NVIDIA](https://www.nvidia.com/), working on deep learning methods for medical image analysis. My research focuses on developing AI-driven solutions to advance clinical workflows, spanning medical image segmentation, neural architecture search, federated learning, and generative models for medical imaging.
+I am a Senior Applied Research Scientist at [NVIDIA](https://www.nvidia.com/), working on deep learning methods for medical image analysis. My research focuses on developing AI-driven solutions to advance clinical workflows, spanning medical image segmentation, neural architecture search, federated learning, and generative models for medical imaging.
 
 I received my Ph.D. in Computer Science from [Rutgers University](https://www.rutgers.edu/) in 2019, advised by [Prof. Dimitris Metaxas](https://people.cs.rutgers.edu/~dnm/). Prior to that, I obtained my M.Phil. in Mechanical Engineering from [HKUST](https://hkust.edu.hk/) and my B.Eng. from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 

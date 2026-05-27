@@ -16,7 +16,7 @@ redirect_from:
 
 ## Experience
 
-- **Applied Research Scientist**, NVIDIA, Jul 2018 -- Present
+- **Senior Applied Research Scientist**, NVIDIA, Jul 2018 -- Present
 - **Graduate Assistant**, Rutgers University, Sep 2016 -- May 2018
 - **Teaching Assistant**, Rutgers University, Sep 2013 -- Aug 2016
 - **Research Intern**, Siemens Corporate Research, Feb 2012 -- Feb 2013

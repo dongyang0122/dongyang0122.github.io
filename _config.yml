@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dong Yang"
 title_separator          : "-"
 name                     : &name "Dong Yang"
-description              : &description "Applied Research Scientist at NVIDIA"
+description              : &description "Senior Applied Research Scientist at NVIDIA"
 url                      : https://dongyang0122.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dongyang0122/dongyang0122.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dong Yang"
   avatar           : "citations.jpeg"
-  bio              : "Applied Research Scientist at NVIDIA"
+  bio              : "Senior Applied Research Scientist at NVIDIA"
   location         : "United States"
   employer         : "NVIDIA"
   pubmed           : 
