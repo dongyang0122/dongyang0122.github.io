@@ -79,7 +79,7 @@ For a full list, please see [Google Scholar](https://scholar.google.com/citation
 ---
 
 <div style="text-align: center; margin-top: 2em;">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdongyang0122.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Count"/>
+  <a href="https://hitscounter.dev">
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fdongyang0122.github.io&label=Visitors&icon=&color=%23198754" alt="Visitors"/>
   </a>
 </div>
