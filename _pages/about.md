@@ -25,6 +25,8 @@ I am a core contributor to [MONAI](https://monai.io/) (Medical Open Network for 
 
 ## News
 
+- **[2026]** [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800), *arXiv 2026*.
+- **[2026]** [AutoMedBench: Towards Medical AutoResearch with Agentic AI Models](https://arxiv.org/abs/2606.01961), *arXiv 2026*.
 - **[2026]** [MAISI-v2](https://arxiv.org/abs/2501.06478) accepted at **AAAI 2026**.
 - **[2026]** [OmniVinci](https://openreview.net/forum?id=OmniVinci) accepted at **ICLR 2026** (Poster).
 - **[2025]** [Better Tokens for Better 3D](https://openreview.net/forum?id=BetterTokens) accepted at **NeurIPS 2025** (Poster).

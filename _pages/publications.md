@@ -9,6 +9,14 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 
 ## 2026
 
+- **Cosmos 3: Omnimodal World Models for Physical AI**
+  <br>N. Agarwal, A. Ali, J. Allen, M. Antolini, A. Aubame, A. Azzolini, J. Bai, ..., D. Yang, et al.
+  <br>*arXiv 2026* \| [Paper](https://arxiv.org/abs/2606.02800)
+
+- **AutoMedBench: Towards Medical AutoResearch with Agentic AI Models**
+  <br>J. Liu, S. Song, Y. Wang, J. Mao, H. Chen, X. Huang, T. Qi, P. Guo, Y. Tang, Y. He, C. Zhao, A. Myronenko, D. Yang, D. Xu, Y. Zhou
+  <br>*arXiv 2026* \| [Paper](https://arxiv.org/abs/2606.01961)
+
 - **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss**
   <br>C. Zhao, P. Guo, D. Yang, Y. Tang, Y. He, B. Simon, M. Belue, S. Harmon, B. Turkbey, D. Xu
   <br>*AAAI 2026*
