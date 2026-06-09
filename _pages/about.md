@@ -16,12 +16,12 @@ I am a core contributor to [MONAI](https://monai.io/) (Medical Open Network for 
 
 ## Research Interests
 
-- Medical Image Segmentation and Analysis
-- Neural Architecture Search for Medical Imaging
-- Federated Learning and Privacy-Preserving AI
-- Generative Models for Medical Image Synthesis
 - Vision-Language Models for Healthcare
+- Generative Models for Medical Image Synthesis
+- Federated Learning and Privacy-Preserving AI
 - Self-supervised and Semi-supervised Learning
+- Neural Architecture Search for Medical Imaging
+- Medical Image Segmentation and Analysis
 
 ## News
 
