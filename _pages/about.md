@@ -38,6 +38,38 @@ I am a core contributor to [MONAI](https://monai.io/) (Medical Open Network for 
 
 For a full list, please see [Google Scholar](https://scholar.google.com/citations?user=PHvliUgAAAAJ) or the [Publications](/publications/) page.
 
+- **Cosmos 3: Omnimodal World Models for Physical AI**
+  <br>N. Agarwal, A. Ali, J. Allen, ..., D. Yang, et al.
+  <br>*arXiv 2026*
+
+- **AutoMedBench: Towards Medical AutoResearch with Agentic AI Models**
+  <br>J. Liu, S. Song, Y. Wang, J. Mao, H. Chen, X. Huang, T. Qi, P. Guo, Y. Tang, Y. He, C. Zhao, A. Myronenko, D. Yang, D. Xu, Y. Zhou
+  <br>*arXiv 2026*
+
+- **MAISI-v2: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow**
+  <br>C. Zhao, P. Guo, D. Yang, Y. Tang, Y. He, B. Simon, M. Belue, S. Harmon, B. Turkbey, D. Xu
+  <br>*AAAI 2026*
+
+- **OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM**
+  <br>H. Ye, C.-H.H. Yang, A. Goel, W. Huang, Z. Wan, ..., D. Yang, et al.
+  <br>*ICLR 2026 (Poster)*
+
+- **Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**
+  <br>I.E. Hamamci, S. Er, S. Shit, H. Reynaud, D. Yang, P. Guo, M. Edgar, D. Xu, B. Kainz, B. Menze
+  <br>*NeurIPS 2025 (Poster)*
+
+- **FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language Models**
+  <br>J. Sun, Z. Xu, H. Yin, D. Yang, D. Xu, Y. Liu, Z. Du, Y. Chen, H.R. Roth
+  <br>*ICML 2024 (Poster)*
+
+- **VISTA3D: Versatile Imaging SegmenTation and Annotation Model for 3D Computed Tomography**
+  <br>Y. He, P. Guo, Y. Tang, A. Myronenko, V. Nath, Z. Xu, D. Yang, C. Zhao, ..., D. Xu, W. Li
+  <br>*arXiv 2024*
+
+- **SwinUNETR-V2: Stronger Swin Transformers with Stagewise Convolutions for 3D Medical Image Segmentation**
+  <br>Y. He, V. Nath, D. Yang, Y. Tang, A. Myronenko, D. Xu
+  <br>*MICCAI 2023*
+
 - **UNETR: Transformers for 3D Medical Image Segmentation**
   <br>A. Hatamizadeh, Y. Tang, V. Nath, D. Yang, A. Myronenko, B. Landman, H.R. Roth, D. Xu
   <br>*WACV 2022*
